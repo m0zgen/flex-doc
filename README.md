@@ -5,22 +5,22 @@ Flow for Engineers, this methodology can be used as additional helper for [12-Fa
 
 ## Main principles:
 
-### Automation
+  ### Automation
 
-### Minimalism
+  ### Minimalism
 
-Like as conciseness - 
+    Like as conciseness - 
 
-### Security
+  ### Security
 
-### Notifications
+  ### Notifications
 
-### Like as messaging - 
+  ### Like as messaging - 
 
-### Measurability
+  ### Measurability
 
-### Self-healing
+  ### Self-healing
 
-### Flexibility
+  ### Flexibility
 
-### Documentations
+  ### Documentations
