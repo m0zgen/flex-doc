@@ -1,3 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://flex.sys-adm.in/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Flex App Additions Methodology'
+theme = "ace-doc"
+
+toc = false
+disableSearch = true
+disableReadmoreNav = true
