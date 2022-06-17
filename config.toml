@@ -1,4 +1,4 @@
-baseURL = 'https://flex.sys-adm.in/'
+baseURL = 'https://flex-doc.pages.dev'
 languageCode = 'en-us'
 title = 'Flex App Additions Methodology'
 theme = "ace-doc"
