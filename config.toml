@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Flex App Additions Methodology'
 theme = "ace-doc"
 
-toc = false
-disableSearch = true
-disableReadmoreNav = true
+[params]
+
+    # toc = false
+    disableSearch = true
+    disableReadmoreNav = true
