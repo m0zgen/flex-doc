@@ -5,24 +5,27 @@ Flow for Engineers, this methodology can be used as additional helper for [12-Fa
 
 ## Main principles:
 
-  ### Automation
+1. Automation
+2. Minimalism
+3. Security
+4. Notifications
+5. Measurability
+6. Self-healing
+7. Flexibility
+8. Documentation
 
-  ### Minimalism
+See details on site: [https://flex-doc.pages.dev](https://flex-doc.pages.dev/)
 
-    Like as conciseness - 
+## Chronology
 
-  ### Security
+### The Born
 
-  ### Notifications
+This concepts born while I wrote the post:
 
-  ### Like as messaging - 
+* [My "Flex" factors working with infrastructure and about of 12-factors app from Heroku](https://sys-adm.in/live/985-moi-faktory-raboty-s-infrastrukturoj-pro-12-faktorov-i-ne-tolko.html) 
 
-  ### Measurability
+### Public repo
+Then I decided describe my "Flex" concepts in the [Flex-doc](https://github.com/m0zgen/flex-doc) repo.
 
-  ### Self-healing
-
-  ### Flexibility
-
-  ### Documentation
-
-
+### Site
+Now repo converted to [Hugo](https://gohugo.io/) engine and published on [https://flex-doc.pages.dev](https://flex-doc.pages.dev/)
